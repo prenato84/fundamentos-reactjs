@@ -42,9 +42,9 @@ Nesse desafio foi dada continuidade à aplicação de gestão de transações, a
 Essa é uma aplicação que se conecta ao backend do [Desafio 06](https://github.com/prenato84/database-upload), e exibe as transações criadas, permitindo a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 <p align="center">
-  <img src="./assets/dashboard.png" width="60%" />
+  <img src="./assets/dashboard.png" width="75%" />
   <br>
-  <img src="./assets/import.png" width="60%" />
+  <img src="./assets/import.png" width="75%" />
 </p>
 
 ### :keyboard: Instalação e Execução do Projeto

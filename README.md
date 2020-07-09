@@ -42,7 +42,9 @@ Nesse desafio foi dada continuidade à aplicação de gestão de transações, a
 Essa é uma aplicação que se conecta ao backend do [Desafio 06](https://github.com/prenato84/database-upload), e exibe as transações criadas, permitindo a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 <p align="center">
-  <img src="./assets/csv_example.png">
+  <img src="./assets/dashboard.png" width="60%" />
+  <br>
+  <img src="./assets/import.png" width="60%" />
 </p>
 
 ### :keyboard: Instalação e Execução do Projeto
@@ -139,6 +141,10 @@ Essa aplicação possui um layout que você pode seguir para conseguir visualiza
 O layout pode ser acessado através da página do Figma, no [seguinte link](https://www.figma.com/file/EgOhyj1Inz14dhWGVhRlhr/GoFinances?node-id=1%3A863).
 
 Você precisará uma conta (gratuita) no Figma pra inspecionar o layout e obter detalhes de cores, tamanhos, etc.
+
+<p align="center">
+  <img src="./assets/dashboard.png" width="50%" />
+</p>
 
 ### Funcionalidades da aplicação (Instruções)
 
